@@ -1,38 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="dd270de7-f342-4eac-a473-96a79c685ea3" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/design_patterns.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/design_patterns.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/factory_pattern/factory_pattern.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/factory_pattern/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/factory_pattern/src/main/java/Circle.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/factory_pattern/src/main/java/FactoryPatternDemo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/factory_pattern/src/main/java/Rectangle.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/factory_pattern/src/main/java/Shape.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/factory_pattern/src/main/java/ShapeFactory.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/factory_pattern/src/main/java/Square.java" beforeDir="false" />
-    </list>
+    <list default="true" id="44f78d6c-9cad-48c7-9653-1f7fb6304a5c" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Interface" />
-        <option value="Class" />
-      </list>
-    </option>
-  </component>
-  <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-  </component>
-  <component name="ProjectId" id="1y1FmwP0CTNTXtgeodILvvFSizR" />
+  <component name="ProjectId" id="1yZm7XnH1uBLUO2weHLdwwsz0T6" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -40,15 +15,55 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/03_builder_patterns/src/main/java" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.20451844" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
-  <component name="RunManager">
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/03_builder_patterns/src/main/java" />
+      <recent name="$PROJECT_DIR$/01_factory_patterns/src/main/java" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.FactoryPatternDemo">
+    <configuration name="AdapterPatternDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AdapterPatternDemo" />
+      <module name="05_adapter_patterns" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BridgePatternDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BridgePatternDemo" />
+      <module name="06_bridge_patterns" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BuilderPatternDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BuilderPatternDemo" />
+      <module name="03_builder_patterns" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="FactoryPatternDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="FactoryPatternDemo" />
-      <module name="01_factory_pattern" />
+      <module name="01_factory_patterns" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PrototypePatternDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PrototypePatternDemo" />
+      <module name="04_prototype_patterns" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -56,6 +71,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.FactoryPatternDemo" />
+        <item itemvalue="Application.PrototypePatternDemo" />
+        <item itemvalue="Application.BuilderPatternDemo" />
+        <item itemvalue="Application.BridgePatternDemo" />
+        <item itemvalue="Application.AdapterPatternDemo" />
       </list>
     </recent_temporary>
   </component>
@@ -64,14 +83,14 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="dd270de7-f342-4eac-a473-96a79c685ea3" name="Default Changelist" comment="" />
-      <created>1631411349561</created>
+      <changelist id="44f78d6c-9cad-48c7-9653-1f7fb6304a5c" name="Default Changelist" comment="" />
+      <created>1632467317597</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1631411349561</updated>
-      <workItem from="1631411353531" duration="561000" />
-      <workItem from="1631414562543" duration="4233000" />
-      <workItem from="1632228011413" duration="11000" />
+      <updated>1632467317597</updated>
+      <workItem from="1632467321177" duration="1102000" />
+      <workItem from="1632468436233" duration="2212000" />
+      <workItem from="1632471717898" duration="1195000" />
     </task>
     <servers />
   </component>
@@ -79,33 +98,51 @@
     <option name="version" value="2" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="-1830" y="-76" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1631416688124">
-      <screen x="-2560" y="-473" width="2560" height="1374" />
+    <state x="-1970" y="-185" key="#BridgePatternDemo" timestamp="1632469705061">
+      <screen x="-2560" y="-479" width="2560" height="1374" />
     </state>
-    <state x="-1830" y="-76" key="#com.intellij.fileTypes.FileTypeChooser/-2560.-473.2560.1374/0.23.1440.877@-2560.-473.2560.1374" timestamp="1631416688124" />
-    <state x="-1071" y="-105" key="#com.intellij.ide.util.MemberChooser" timestamp="1631415197302">
-      <screen x="-2560" y="-473" width="2560" height="1374" />
+    <state x="-1970" y="-185" key="#BridgePatternDemo/-2560.-479.2560.1374/0.23.1440.877@-2560.-479.2560.1374" timestamp="1632469705061" />
+    <state x="-1410" y="21" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1632468388917">
+      <screen x="-2560" y="-479" width="2560" height="1374" />
     </state>
-    <state x="-1071" y="-105" key="#com.intellij.ide.util.MemberChooser/-2560.-473.2560.1374/0.23.1440.877@-2560.-473.2560.1374" timestamp="1631415197302" />
-    <state width="1078" height="294" key="GridCell.Tab.0.bottom" timestamp="1631421686852">
-      <screen x="-2560" y="-473" width="2560" height="1374" />
+    <state x="-1410" y="21" key="#com.intellij.execution.impl.EditConfigurationsDialog/-2560.-479.2560.1374/0.23.1440.877@-2560.-479.2560.1374" timestamp="1632468388917" />
+    <state x="-1137" y="156" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1632468372274">
+      <screen x="-2560" y="-479" width="2560" height="1374" />
     </state>
-    <state width="1078" height="294" key="GridCell.Tab.0.bottom/-2560.-473.2560.1374/0.23.1440.877@-2560.-473.2560.1374" timestamp="1631421686852" />
-    <state width="1078" height="294" key="GridCell.Tab.0.center" timestamp="1631421686850">
-      <screen x="-2560" y="-473" width="2560" height="1374" />
+    <state x="-1137" y="156" key="#com.intellij.ide.util.TreeClassChooserDialog/-2560.-479.2560.1374/0.23.1440.877@-2560.-479.2560.1374" timestamp="1632468372274" />
+    <state x="-1978" y="126" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1632467402257">
+      <screen x="-2560" y="-479" width="2560" height="1374" />
     </state>
-    <state width="1078" height="294" key="GridCell.Tab.0.center/-2560.-473.2560.1374/0.23.1440.877@-2560.-473.2560.1374" timestamp="1631421686850" />
-    <state width="1078" height="294" key="GridCell.Tab.0.left" timestamp="1631421686849">
-      <screen x="-2560" y="-473" width="2560" height="1374" />
+    <state x="-1978" y="126" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/-2560.-479.2560.1374/0.23.1440.877@-2560.-479.2560.1374" timestamp="1632467402257" />
+    <state width="1024" height="311" key="GridCell.Tab.0.bottom" timestamp="1632471537518">
+      <screen x="-1024" y="23" width="1024" height="745" />
     </state>
-    <state width="1078" height="294" key="GridCell.Tab.0.left/-2560.-473.2560.1374/0.23.1440.877@-2560.-473.2560.1374" timestamp="1631421686849" />
-    <state width="1078" height="294" key="GridCell.Tab.0.right" timestamp="1631421686851">
-      <screen x="-2560" y="-473" width="2560" height="1374" />
+    <state width="1681" height="311" key="GridCell.Tab.0.bottom/-2560.-479.2560.1374/0.23.1440.877@-2560.-479.2560.1374" timestamp="1632470627592" />
+    <state width="1024" height="311" key="GridCell.Tab.0.bottom/0.23.1440.848/-1024.23.1024.745@-1024.23.1024.745" timestamp="1632471537518" />
+    <state width="1024" height="311" key="GridCell.Tab.0.center" timestamp="1632471537516">
+      <screen x="-1024" y="23" width="1024" height="745" />
     </state>
-    <state width="1078" height="294" key="GridCell.Tab.0.right/-2560.-473.2560.1374/0.23.1440.877@-2560.-473.2560.1374" timestamp="1631421686851" />
-    <state x="-1787" y="-222" width="1063" height="674" key="new project wizard" timestamp="1631411509602">
-      <screen x="-2560" y="-473" width="2560" height="1374" />
+    <state width="1681" height="311" key="GridCell.Tab.0.center/-2560.-479.2560.1374/0.23.1440.877@-2560.-479.2560.1374" timestamp="1632470627591" />
+    <state width="1024" height="311" key="GridCell.Tab.0.center/0.23.1440.848/-1024.23.1024.745@-1024.23.1024.745" timestamp="1632471537516" />
+    <state width="1024" height="311" key="GridCell.Tab.0.left" timestamp="1632471537515">
+      <screen x="-1024" y="23" width="1024" height="745" />
     </state>
-    <state x="-1787" y="-222" width="1063" height="674" key="new project wizard/-2560.-473.2560.1374/0.23.1440.877@-2560.-473.2560.1374" timestamp="1631411509602" />
+    <state width="1681" height="311" key="GridCell.Tab.0.left/-2560.-479.2560.1374/0.23.1440.877@-2560.-479.2560.1374" timestamp="1632470627590" />
+    <state width="1024" height="311" key="GridCell.Tab.0.left/0.23.1440.848/-1024.23.1024.745@-1024.23.1024.745" timestamp="1632471537515" />
+    <state width="1024" height="311" key="GridCell.Tab.0.right" timestamp="1632471537517">
+      <screen x="-1024" y="23" width="1024" height="745" />
+    </state>
+    <state width="1681" height="311" key="GridCell.Tab.0.right/-2560.-479.2560.1374/0.23.1440.877@-2560.-479.2560.1374" timestamp="1632470627591" />
+    <state width="1024" height="311" key="GridCell.Tab.0.right/0.23.1440.848/-1024.23.1024.745@-1024.23.1024.745" timestamp="1632471537517" />
+    <state x="59" y="49" key="SettingsEditor" timestamp="1632471800112">
+      <screen x="0" y="23" width="1440" height="848" />
+    </state>
+    <state x="-1795" y="-49" key="SettingsEditor/-2560.-479.2560.1374/0.23.1440.877@-2560.-479.2560.1374" timestamp="1632468806585" />
+    <state x="-982" y="46" key="SettingsEditor/0.23.1440.848/-1024.23.1024.745@-1024.23.1024.745" timestamp="1632471769415" />
+    <state x="59" y="49" key="SettingsEditor/0.23.1440.848/-1024.23.1024.745@0.23.1440.848" timestamp="1632471800112" />
+    <state x="-2363" y="162" key="new project wizard" timestamp="1632469625204">
+      <screen x="-2560" y="-479" width="2560" height="1374" />
+    </state>
+    <state x="-2363" y="162" key="new project wizard/-2560.-479.2560.1374/0.23.1440.877@-2560.-479.2560.1374" timestamp="1632469625204" />
   </component>
 </project>

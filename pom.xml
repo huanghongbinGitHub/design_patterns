@@ -9,7 +9,13 @@
     <packaging>pom</packaging>
     <version>1.0-SNAPSHOT</version>
     <modules>
-        <module>factory_pattern</module>
+        <module>01_factory_patterns</module>
+        <module>03_builder_patterns</module>
+        <module>04_prototype_patterns</module>
+        <module>05_adapter_patterns</module>
+        <module>06_bridge_patterns</module>
+        <module>09_decorator_patterns</module>
+        <module>06_bridge</module>
     </modules>
 
 
