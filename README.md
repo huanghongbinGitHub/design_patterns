@@ -16,6 +16,16 @@
 
 ## 	06_bridge:桥接模式
 
+
+
+### example2:
+
+桥接模式在源码中的表现为，Thread、Runable
+
+Thread的构造方法中有一个可以传入一个Runable的实例，
+
+Thread的对象在start开始的时候，实际执行的是Runable中的run方法
+
 ## 	09_decorator_pattern：装饰者模式
 
 

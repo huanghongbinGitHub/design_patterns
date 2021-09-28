@@ -3,16 +3,34 @@
   <component name="ChangeListManager">
     <list default="true" id="44f78d6c-9cad-48c7-9653-1f7fb6304a5c" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/06_bridge/src/main/java/BridgePatternDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/06_bridge/src/main/java/com/sh/shape/BridgePatternDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/06_bridge/src/main/java/Circle.java" beforeDir="false" afterPath="$PROJECT_DIR$/06_bridge/src/main/java/com/sh/shape/Circle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/06_bridge/src/main/java/DrawAPI.java" beforeDir="false" afterPath="$PROJECT_DIR$/06_bridge/src/main/java/com/sh/shape/DrawAPI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/06_bridge/src/main/java/GreenCircle.java" beforeDir="false" afterPath="$PROJECT_DIR$/06_bridge/src/main/java/com/sh/shape/GreenCircle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/06_bridge/src/main/java/RedCircle.java" beforeDir="false" afterPath="$PROJECT_DIR$/06_bridge/src/main/java/com/sh/shape/RedCircle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/06_bridge/src/main/java/Shape.java" beforeDir="false" afterPath="$PROJECT_DIR$/06_bridge/src/main/java/com/sh/shape/Shape.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/设计模式-分享.pptx" beforeDir="false" afterPath="$PROJECT_DIR$/设计模式-分享.pptx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1yZm7XnH1uBLUO2weHLdwwsz0T6" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -22,7 +40,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/03_builder_patterns/src/main/java" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.20451844" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -37,17 +55,10 @@
       <recent name="$PROJECT_DIR$/01_factory_patterns/src/main/java" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.FactoryPatternDemo">
-    <configuration name="AdapterPatternDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="AdapterPatternDemo" />
-      <module name="05_adapter_patterns" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.ThreadDemo">
     <configuration name="BridgePatternDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BridgePatternDemo" />
-      <module name="06_bridge_patterns" />
+      <option name="MAIN_CLASS_NAME" value="com.sh.shape.BridgePatternDemo" />
+      <module name="06_bridge" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -73,13 +84,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ThreadDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.sh.thread.ThreadDemo" />
+      <module name="06_bridge" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.sh.thread.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ThreadDemo" />
         <item itemvalue="Application.FactoryPatternDemo" />
         <item itemvalue="Application.PrototypePatternDemo" />
         <item itemvalue="Application.BuilderPatternDemo" />
         <item itemvalue="Application.BridgePatternDemo" />
-        <item itemvalue="Application.AdapterPatternDemo" />
       </list>
     </recent_temporary>
   </component>
@@ -97,6 +121,7 @@
       <workItem from="1632468436233" duration="2212000" />
       <workItem from="1632471717898" duration="1195000" />
       <workItem from="1632476632714" duration="858000" />
+      <workItem from="1632837695659" duration="1850000" />
     </task>
     <servers />
   </component>
@@ -112,6 +137,10 @@
       <screen x="-2560" y="-479" width="2560" height="1374" />
     </state>
     <state x="-1410" y="21" key="#com.intellij.execution.impl.EditConfigurationsDialog/-2560.-479.2560.1374/0.23.1440.877@-2560.-479.2560.1374" timestamp="1632468388917" />
+    <state x="553" y="150" key="#com.intellij.ide.util.MemberChooser" timestamp="1632838367875">
+      <screen x="0" y="23" width="1440" height="840" />
+    </state>
+    <state x="553" y="150" key="#com.intellij.ide.util.MemberChooser/0.23.1440.840@0.23.1440.840" timestamp="1632838367875" />
     <state x="-1137" y="156" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1632468372274">
       <screen x="-2560" y="-479" width="2560" height="1374" />
     </state>
@@ -120,25 +149,33 @@
       <screen x="-2560" y="-479" width="2560" height="1374" />
     </state>
     <state x="-1978" y="126" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/-2560.-479.2560.1374/0.23.1440.877@-2560.-479.2560.1374" timestamp="1632467402257" />
-    <state width="1024" height="178" key="GridCell.Tab.0.bottom" timestamp="1632477630710">
-      <screen x="-2560" y="-479" width="2560" height="1374" />
+    <state width="1057" height="241" key="GridCell.Tab.0.bottom" timestamp="1632839588627">
+      <screen x="0" y="23" width="1440" height="841" />
     </state>
     <state width="1024" height="178" key="GridCell.Tab.0.bottom/-2560.-479.2560.1374/0.23.1440.877@-2560.-479.2560.1374" timestamp="1632477630710" />
+    <state width="1251" height="167" key="GridCell.Tab.0.bottom/0.23.1440.840@0.23.1440.840" timestamp="1632838578790" />
+    <state width="1057" height="241" key="GridCell.Tab.0.bottom/0.23.1440.841@0.23.1440.841" timestamp="1632839588627" />
     <state width="1024" height="311" key="GridCell.Tab.0.bottom/0.23.1440.848/-1024.23.1024.745@-1024.23.1024.745" timestamp="1632471537518" />
-    <state width="1024" height="178" key="GridCell.Tab.0.center" timestamp="1632477630708">
-      <screen x="-2560" y="-479" width="2560" height="1374" />
+    <state width="1057" height="241" key="GridCell.Tab.0.center" timestamp="1632839588626">
+      <screen x="0" y="23" width="1440" height="841" />
     </state>
     <state width="1024" height="178" key="GridCell.Tab.0.center/-2560.-479.2560.1374/0.23.1440.877@-2560.-479.2560.1374" timestamp="1632477630708" />
+    <state width="1251" height="167" key="GridCell.Tab.0.center/0.23.1440.840@0.23.1440.840" timestamp="1632838578789" />
+    <state width="1057" height="241" key="GridCell.Tab.0.center/0.23.1440.841@0.23.1440.841" timestamp="1632839588626" />
     <state width="1024" height="311" key="GridCell.Tab.0.center/0.23.1440.848/-1024.23.1024.745@-1024.23.1024.745" timestamp="1632471537516" />
-    <state width="1024" height="178" key="GridCell.Tab.0.left" timestamp="1632477630707">
-      <screen x="-2560" y="-479" width="2560" height="1374" />
+    <state width="1057" height="241" key="GridCell.Tab.0.left" timestamp="1632839588625">
+      <screen x="0" y="23" width="1440" height="841" />
     </state>
     <state width="1024" height="178" key="GridCell.Tab.0.left/-2560.-479.2560.1374/0.23.1440.877@-2560.-479.2560.1374" timestamp="1632477630707" />
+    <state width="1251" height="167" key="GridCell.Tab.0.left/0.23.1440.840@0.23.1440.840" timestamp="1632838578789" />
+    <state width="1057" height="241" key="GridCell.Tab.0.left/0.23.1440.841@0.23.1440.841" timestamp="1632839588625" />
     <state width="1024" height="311" key="GridCell.Tab.0.left/0.23.1440.848/-1024.23.1024.745@-1024.23.1024.745" timestamp="1632471537515" />
-    <state width="1024" height="178" key="GridCell.Tab.0.right" timestamp="1632477630709">
-      <screen x="-2560" y="-479" width="2560" height="1374" />
+    <state width="1057" height="241" key="GridCell.Tab.0.right" timestamp="1632839588626">
+      <screen x="0" y="23" width="1440" height="841" />
     </state>
     <state width="1024" height="178" key="GridCell.Tab.0.right/-2560.-479.2560.1374/0.23.1440.877@-2560.-479.2560.1374" timestamp="1632477630709" />
+    <state width="1251" height="167" key="GridCell.Tab.0.right/0.23.1440.840@0.23.1440.840" timestamp="1632838578790" />
+    <state width="1057" height="241" key="GridCell.Tab.0.right/0.23.1440.841@0.23.1440.841" timestamp="1632839588626" />
     <state width="1024" height="311" key="GridCell.Tab.0.right/0.23.1440.848/-1024.23.1024.745@-1024.23.1024.745" timestamp="1632471537517" />
     <state x="59" y="49" key="SettingsEditor" timestamp="1632471800112">
       <screen x="0" y="23" width="1440" height="848" />
