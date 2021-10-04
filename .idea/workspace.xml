@@ -2,15 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="44f78d6c-9cad-48c7-9653-1f7fb6304a5c" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/06_bridge/src/main/java/BridgePatternDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/06_bridge/src/main/java/com/sh/shape/BridgePatternDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/06_bridge/src/main/java/Circle.java" beforeDir="false" afterPath="$PROJECT_DIR$/06_bridge/src/main/java/com/sh/shape/Circle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/06_bridge/src/main/java/DrawAPI.java" beforeDir="false" afterPath="$PROJECT_DIR$/06_bridge/src/main/java/com/sh/shape/DrawAPI.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/06_bridge/src/main/java/GreenCircle.java" beforeDir="false" afterPath="$PROJECT_DIR$/06_bridge/src/main/java/com/sh/shape/GreenCircle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/06_bridge/src/main/java/RedCircle.java" beforeDir="false" afterPath="$PROJECT_DIR$/06_bridge/src/main/java/com/sh/shape/RedCircle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/06_bridge/src/main/java/Shape.java" beforeDir="false" afterPath="$PROJECT_DIR$/06_bridge/src/main/java/com/sh/shape/Shape.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/设计模式-分享.pptx" beforeDir="false" afterPath="$PROJECT_DIR$/设计模式-分享.pptx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -122,6 +114,7 @@
       <workItem from="1632471717898" duration="1195000" />
       <workItem from="1632476632714" duration="858000" />
       <workItem from="1632837695659" duration="1850000" />
+      <workItem from="1633360059169" duration="329000" />
     </task>
     <servers />
   </component>
