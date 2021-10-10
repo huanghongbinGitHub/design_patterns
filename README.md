@@ -28,5 +28,13 @@ Thread的对象在start开始的时候，实际执行的是Runable中的run方�
 
 ## 	09_decorator_pattern：装饰者模式
 
+## 10_flyweight：享元模式
+
+java中的string，如果存在直接返回，如果不存在直接创建一个保存在缓存池中。
+
+数据库的连接池
+
+
+
 
 

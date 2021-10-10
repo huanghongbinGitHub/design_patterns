@@ -10,6 +10,7 @@
     <option name="ignoredFiles">
       <set>
         <option value="$PROJECT_DIR$/06_bridge_patterns/pom.xml" />
+        <option value="$PROJECT_DIR$/flyweight/pom.xml" />
       </set>
     </option>
   </component>

@@ -16,6 +16,7 @@
         <module>06_bridge_patterns</module>
         <module>09_decorator_patterns</module>
         <module>06_bridge</module>
+        <module>10_flyweight</module>
     </modules>
 
 
